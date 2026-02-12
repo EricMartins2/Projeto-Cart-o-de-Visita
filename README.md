@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-:wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+:wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
