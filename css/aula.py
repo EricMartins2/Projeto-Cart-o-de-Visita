@@ -1,0 +1,8 @@
+nome = input('Qual é o seu nome completo? ').strip()
+print('Nome em letras maiúsculas: {}'.format(nome.upper()))
+print('Nome em letras minúsculas: {}'.format(nome.lower()))
+print(len(nome) - nome.count(' '))
+print(nome.find(' '))
+separa = nome.split()
+print(separa)
+print(separa[0])
